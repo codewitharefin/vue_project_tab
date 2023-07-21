@@ -1,0 +1,16 @@
+.tab-list .item {
+    width: 100%;
+    border: 1px solid #959595;
+    padding: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.tab-list .active {
+    background: #000;
+    color: #fff;
+}
+.tab-content .item {
+    border: 1px solid #959595;
+    padding: 20px;
+}
